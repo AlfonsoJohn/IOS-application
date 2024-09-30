@@ -1,6 +1,5 @@
 # My Journey with Amplify CLI for iOS App Development
 
-
 In this project, I embarked on creating a simple yet powerful iOS application utilizing AWS Amplify, a robust suite of tools and serverless services hosted in the cloud. Throughout the development process, I initialized a local iOS application using the Amplify Command Line Interface (CLI), integrated user authentication, and incorporated a GraphQL API along with a database to manage data efficiently. Additionally, I enhanced the application to handle image storage.
 
 ## My Experience with Amplify CLI for iOS
